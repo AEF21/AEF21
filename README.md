@@ -1,5 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Aida+Farateseh;Full+Stack+Developer+Student;React+%2B+TypeScript+%2B+Java+Spring+Boot)
-
+# Hi there 👋
 I am a dedicated Software Development student currently navigating through the second module of my intensive three-part program. Having mastered the art of structuring and styling responsive websites with HTML and CSS, I have expanded into JavaScript, DOM manipulation, and asynchronous logic. I'm now building full-stack applications with React, TypeScript, and Vite on the frontend, paired with Java Spring Boot and MySQL on the backend.
 
 ### 🔧 Tech Stack
