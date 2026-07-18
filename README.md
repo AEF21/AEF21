@@ -1,6 +1,7 @@
 # Hi there 👋
- 
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Aida+Farateseh;Full+Stack+Developer+Student;React+%2B+TypeScript+%2B+Java+Spring+Boot)
+
 I am a dedicated Software Development student currently navigating through the second module of my intensive three-part program. Having mastered the art of structuring and styling responsive websites with HTML and CSS, I have expanded into JavaScript, DOM manipulation, and asynchronous logic. I'm now building full-stack applications with React, TypeScript, and Vite on the frontend, paired with Java Spring Boot and MySQL on the backend.
 
 ### 🔧 Tech Stack
@@ -25,6 +26,14 @@ An e-commerce platform featuring:
 - REST API integration between frontend and a Spring Boot backend
 - Docker-based development environment with MySQL
 
+### ⚡ Fun facts
+
+- 🔭 Currently learning Spring Boot and REST API design
+- 🌱 Building my first full-stack e-commerce project
+- 💬 Ask me about React, TypeScript, or Java
+- 📫 Reach me by email or connect on LinkedIn below
+- 😄 Pronouns: she/her
+
 ### 📊 GitHub Stats
 
 ![Aida's GitHub stats](https://github-readme-stats.vercel.app/api?username=AEF21&show_icons=true&theme=default)
@@ -36,7 +45,8 @@ An e-commerce platform featuring:
 
 ### 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aida-elena-farateseh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:himmelojord312@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aida-elena-farateseh)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AEF21)
 
 ![Profile views](https://komarev.com/ghpvc/?username=AEF21&color=blue)
